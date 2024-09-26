@@ -1,2 +1,2 @@
 # Matematica-II 
-Projetos Do Alura feitos na aula de Matematica II
+Calendário p/ validação do trimestre.
